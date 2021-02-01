@@ -4,3 +4,17 @@ This project is arduino controlling a Electronic Speed Control (ESC), that is br
 #Circuit Diagram
 
 ![Electric Turbo](https://user-images.githubusercontent.com/33513314/106443381-fefcce80-64ae-11eb-8607-045d4311becc.jpg)
+
+
+
+# How to program Arduino pro mini board with Arduino IDE
+
+First let us upload code using the 5 pin version. The connections are
+
+PROMINI	        USB-TTL
+DTR	              DTR
+TxO	              Rx
+RxI	              Tx
+Vcc	              5v
+GND	              GND
+
